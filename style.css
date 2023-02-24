@@ -32,6 +32,13 @@ color:#333;
 margin-right:40rem;
 }
 
+
+.carousel-inner img {
+    width: 118%;
+    height: 100%;
+  }
+
+
 h1 {
   text-align:center;
 margin-top:6rem;
